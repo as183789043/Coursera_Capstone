@@ -1,4 +1,4 @@
-# The Battle of the Neighborhoods: open  a pizza shop in Toronto
+# The Battle of the Neighborhoods: open  a Pizza Shop in Toronto
 Capstone project for IBM Data Science Professional Certificate on Coursera.
 ***
 ## Project summary
