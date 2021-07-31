@@ -1,7 +1,8 @@
 # The Battle of the Neighborhoods: open  a pizza shop in Toronto
 Capstone project for IBM Data Science Professional Certificate on Coursera.
 ***
-__goal__:
+## Project summary
+__Goal__:
 -To figure out the best locations for opening up a new pizza shop in Toronto City.
 
 __Target Audience__: 
